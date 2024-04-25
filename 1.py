@@ -4,14 +4,14 @@ operator=input("Enter the operator")
 
 
 if  operator=='+':
-    print(num1+num2)
+     print(num1+num2)
 elif operator=='-':
-     print(num1-num2)
+      print(num1-num2)
 elif operator=='*':
-     print(num1*num2)
+      print(num1*num2)
 elif operator=='/':
-     print(num1/num2)
+      print(num1/num2)
 elif operator=='%':
-     print(num1%num2)
+      print(num1%num2)
 else:
-     print('invalid')
+      print('invalid')
